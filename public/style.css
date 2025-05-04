@@ -1,0 +1,75 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: #40E0D0;
+}
+
+h2 {
+    color: green;
+}
+
+h4 {
+    color: #3f0;
+}
+
+.lake-name {
+    font-weight: bold;
+}
+
+.white {
+    color: white
+}
+
+.black {
+    color: black
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.bold-text {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.right-text {
+    text-align: right;
+    color: white;
+}
+
+.box {
+    background-color: red;
+    margin: 40px auto;
+    padding: 20px;
+    width: 80%;
+    text-align: center;
+}
+
+.blue-border {
+    border: 5px solid blue;
+}
+
+.green-border {
+    border: 5px solid green;
+}
+
+.small-text {
+    font-size: 14px;
+}
